@@ -15,4 +15,19 @@ margin: 1rem 1rem;
 
 
 
+
+}
+
+footer{
+background-color: black;
+color: #fff;
+position: fixed;
+bottom:0;
+width:100px;
+height:25px;
+font-size:14px;
+
+
+
+
 }
