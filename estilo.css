@@ -18,6 +18,19 @@ margin: 1rem 1rem;
 
 }
 
+.cartao:hover{
+     background-color:rgb(39, 110, 110)
+
+
+
+}
+
+.cartao-resposta{
+
+font-size: 20px;
+
+}
+
 footer{
 background-color: black;
 color: #fff;
