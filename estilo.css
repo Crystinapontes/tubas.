@@ -8,7 +8,7 @@ justify-content: space-between;
 background-color:rgb(66, 125, 159);
 color:#fff;
 border-radius: 20px;
-height: 20rem;
+height: 30rem;
 flex-grow: 1;
 flex-basis: calc(33% - 6rem);
 margin: 1rem 1rem;
