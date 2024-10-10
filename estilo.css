@@ -35,13 +35,20 @@ font-size: 20px;
      transform-style: preserve-3d;
      transition:  transform 300ms ease-in-out
 
-
-
-
-
-
 }
-footer{
+ cartao--pergunta, .cartao--resposta{
+     backface-visibility: hidden;
+
+ }
+ 
+
+ .cartao--resposta{
+transform: rotateY(180deg);
+
+ }
+
+
+.rodape{
 background-color: black;
 color: #fff;
 position: fixed;
