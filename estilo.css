@@ -18,19 +18,29 @@ margin: 4rem 1rem;
 
 }
 
-.cartao:hover{
-     background-color:rgb(39, 110, 110)
-
+.cartao:hover  .cartoa--conteudo{
+     background-color:rgb(39, 110, 110);
+     transform: rotateY(180deg);
 
 
 }
+
 
 .cartao-resposta{
 
 font-size: 20px;
 
 }
+ .cartoa--conteudo{
+     transform-style: preserve-3d;
+     transition:  transform 300ms ease-in-out
 
+
+
+
+
+
+}
 footer{
 background-color: black;
 color: #fff;
