@@ -3,6 +3,6 @@ function criarCartao(pergunta, resposta ){
 
 
 
-    cartaoCartao(1,2)
+    criarCartao(1,2)
 
 }
