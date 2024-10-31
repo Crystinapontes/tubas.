@@ -19,7 +19,7 @@ margin: 4rem 1rem;
 }
 
 .cartao:hover  .cartoa--conteudo{
-     background-color:rgb(39, 110, 110);
+     background-color:rgb(81, 132, 173);
      transform: rotateY(180deg);
 
 
