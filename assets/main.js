@@ -8,6 +8,7 @@ cartao.innerHTML =
 
 conteudo.appendChild(cartao)
 
+
    
 
     criarCartao(1,2)
