@@ -18,7 +18,7 @@ text-align: center;
 
 }
 
-.cartao:hover  .cartoa--conteudo{
+.cartao:hover  .cartao--conteudo{
      background-color:rgb(81, 132, 173);
      transform: rotateY(180deg);
 
