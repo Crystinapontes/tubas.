@@ -4,7 +4,7 @@ function criarCartao(pergunta, resposta ){
    
    cartao.classlit = 'cartao'
 
-cartao.innerHTML =
+
 
 conteudo.appendChild(cartao)
 
