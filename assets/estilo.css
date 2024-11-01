@@ -1,7 +1,7 @@
-.conteudo{
+#conteudo{
 display: flex;
 justify-content: space-between;
-
+flex-wrap: wrap;
 }
 
 .cartao{
@@ -12,7 +12,7 @@ height: 10rem;
 flex-grow: 10;
 flex-basis: calc(33% - 6rem);
 margin: 4rem 1rem;
-
+text-align: center;
 
 
 
